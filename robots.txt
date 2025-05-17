@@ -1,6 +1,5 @@
 User-agent: *
 Disallow: /nogooglebot/
-
 Allow: /
 
-Sitemap: https://badbacklink.com/sitemap.xml
+Sitemap: https://badbacklink.pages.dev/sitemap.xml
