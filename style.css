@@ -1,7 +1,7 @@
 
 .a,
 a {
-    color: white !important;
+    color: black !important;
     line-height: 3em;
     text-transform: uppercase;
     font-size: 16px;
@@ -9,15 +9,15 @@ a {
 .a:hover,
 a:hover {
     text-decoration: none;
-    color: white !important;
+    color: black !important;
 }
 
 h3 {
-    color: white !important;
+    color: black !important;
 }
 
 p {
-    color: white !important;
+    color: black !important;
 }
 .container,
 container {
