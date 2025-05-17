@@ -3,13 +3,13 @@
 	<url>
 		<loc>https://badbacklink.pages.dev</loc>
 		<priority>1.00</priority>
-		<changefreq>daily</changefreq>
+		<changefreq>monthly</changefreq>
 		<lastmod>2025-05-18</lastmod>
 	</url>
 	<url>
 		<loc>https://badbacklink.pages.dev/2025/05/18/</loc>
 		<priority>0.25</priority>
-		<changefreq>daily</changefreq>
+		<changefreq>monthly</changefreq>
 		<lastmod>2025-05-18</lastmod>
 	</url>
 </urlset>
