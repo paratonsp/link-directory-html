@@ -1,0 +1,24 @@
+{
+  "sitemap.xml": {
+    "Protocol": "https",
+    "DomainName": "badbacklink.pages.dev",
+    "Root": "./",
+    "IncludeExt": [
+      ".html",
+      ".php"
+    ],
+    "Exclude": [],
+    "TagsToInclude": [
+      "priority",
+      "lastmod",
+      "changefreq"
+    ],
+    "DefaultChangeFrequency": "daily",
+    "TabCharacters": "\t",
+    "bIncludeWWW": false,
+    "bRemoveFileExtentions": false,
+    "bUseTrailingSlash": true,
+    "bAutomaticallyUpdateSitemap": true,
+    "bMinimized": false
+  }
+}
