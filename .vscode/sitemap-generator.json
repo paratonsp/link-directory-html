@@ -7,7 +7,9 @@
       ".html",
       ".php"
     ],
-    "Exclude": [],
+    "Exclude": [
+      "etc/*"
+    ],
     "TagsToInclude": [
       "priority",
       "lastmod",
